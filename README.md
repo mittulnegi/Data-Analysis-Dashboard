@@ -10,10 +10,10 @@ The Vrinda Store wants to create an annual sales report. So that, the owner of t
 - Which month got the highest sales and orders?
 - Who purchased more - Men or Women?
 - What are different order status?
-- List top 5 states contributing to the sales?
+- List top 5 states contributing to the sales
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
-- Highest selling category?
+- Highest selling category
 - Percentage of Total Orders delivered
 
 - Dashboard Interaction <a href="https://github.com/mittulnegi/Data-Analysis-Dashboard/blob/main/Screenshot%202025-07-09%20201757.png">View Dashboard</a>
@@ -36,4 +36,4 @@ The Vrinda Store wants to create an annual sales report. So that, the owner of t
 - More than 90% of the products delivered
 
 ## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented through Amazon, Flipkart and Myntra channels.
